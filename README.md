@@ -1,8 +1,5 @@
 # Hi, I'm Joseph 👋
 
-<!--
-**jlugogarcia/jlugogarcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 I'm a software engineer creating and contributing to open source projects. I'm passionate in learning new ways to improve existing technologies, while helping people to learn more about them.
 
 - 🔭 I’m currently working on a new business venture called "OnInitiative.com". A website and marketplace where everyone can find awesome products about technology and fashion at the same time. Yes, you read that right!
