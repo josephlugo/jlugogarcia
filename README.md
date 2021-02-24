@@ -2,7 +2,7 @@
 
 I'm a software engineer creating and contributing to open source projects. I'm passionate in learning new ways to improve existing technologies, while helping people to learn more about them.
 
-- 🔭 I’m currently working on a new business venture called "OnInitiative.com". A website and marketplace where everyone can find awesome products related to technology, sustainable fashion and lifestyle.
+- 🔭 I’m currently working on a business venture called "OnInitiative.com". A website and marketplace where everyone can find awesome products related to technology, sustainable fashion and lifestyle.
 
 ## Find me around the web 🌎:
 
