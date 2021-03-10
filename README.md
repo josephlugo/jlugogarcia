@@ -1,6 +1,6 @@
 # Hi, my name is Joseph 👋
 
-I'm a software engineer creating and contributing to open-source projects. Always passionate about learning new ways to improve existing technologies while helping people to learn more about them.
+I'm a software engineer creating and contributing to open-source projects. Always passionate about learning new ways to improve existing technologies while empowering people to learn more about them.
 
 - 🔭 I’m currently working on a business venture called "OnInitiative.com." A new marketplace where everyone can find awesome products related to sustainable fashion and use technology to empower sustainable living and growth for the community.
 
