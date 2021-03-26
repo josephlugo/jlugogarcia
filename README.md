@@ -10,4 +10,4 @@ I'm a software engineer creating and contributing to open-source projects. Passi
 
 - Writing about technology, business and finances in my company's blog @[oninitiative.com](https://www.oninitiative.com/learn/).
 - Sharing updates and interacting with community on [Linkedin](https://www.linkedin.com/in/jalugo/).
-- Helping on [StackOverflow](https://stackoverflow.com/users/6918459/jos%c3%a9-lugo?tab=profile).
+- Helping on [StackOverflow](https://stackoverflow.com/users/6918459/jos%c3%a9-lugo?tab=profile) and  [Unix & Linux Stack Exchange](https://unix.stackexchange.com/users/462671/jos%c3%a9-lugo?tab=profile).
