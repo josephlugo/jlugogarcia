@@ -6,7 +6,7 @@ I'm a software engineer creating and contributing to open-source projects. Passi
 
 - 🔭 I’m currently working on a business venture called "OnInitiative.com." A new marketplace where everyone can find awesome products related to sustainable fashion while using technology to promote sustainable living and community growth.
 
-## Find me around the web ➡️ 🌎
+## Find me around the web 🌎
 
 - Writing about technology, business and finance at my company's website @[oninitiative.com](https://www.oninitiative.com/learn/).
 - Sharing updates and interacting with community on [Linkedin](https://www.linkedin.com/in/jalugo/).
