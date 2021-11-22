@@ -4,7 +4,7 @@
 
 I'm a software engineer creating and contributing to open-source projects. Passionate about finding new ways to improve existing technologies while empowering people to learn more about them.
 
-- 🔭 Currently working on a business venture called "OnInitiative.com", a novel marketplace to promote sustainable living and community growth.
+Over ten years of professional experience with software development, database systems, and project management. Passionate leader, well versed in all phases of the software development life cycle and agile approach. Able to work with several programming languages, database management systems, front-end frameworks, and reporting tools. Bilingual (English, Spanish).
 
 ## Find me around the web 🌎
 
