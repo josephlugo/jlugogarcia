@@ -1,4 +1,4 @@
-# Hi, my name is Joseph 👋
+# Hi, I'm Joseph 👋
 
 ![](https://visitor-badge.glitch.me/badge?page_id=jlugogarcia.jlugogarcia)
 
