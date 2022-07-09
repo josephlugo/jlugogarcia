@@ -6,7 +6,7 @@ I'm a software engineer creating and contributing to open-source projects. Passi
 
 Over ten years of professional experience with software development, database systems, and project management. Passionate leader, well versed in all phases of the software development life cycle and agile approach. Able to work with several programming languages, database management systems, front-end frameworks, and reporting tools. Bilingual (English, Spanish).
 
-I’m confident in always being able to learn new technologies, however, my daily specialties are: C#, SQL, TSQL, VB.Net, PgPGSQL, WebAPI, Entity Framework, Entity Framework Core. Tools: SQL Server, PostgreSQL, Azure DevOps, MS Visual Studio, SSMS, SSRS, SSIS, OOP, Command Prompt and Windows PowerShell, Visual Studio Team Services (Git), GitHub, SQL Server Profiler.
+I’m confident in always being able to learn new technologies, however, my daily specialties are: C#, SQL, TSQL, VB.Net, PgPGSQL, WebAPI, Entity Framework, Entity Framework Core. Tools: SQL Server, PostgreSQL, Azure DevOps, MS Visual Studio, SSMS, SSRS, SSIS, Unix, Linux, PgAdmin, OOP, Command Prompt and Windows PowerShell, Visual Studio Team Services (Git), GitHub, SQL Server Profiler.
 
 ## Find me around the web 🌎
 
